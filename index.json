@@ -25,10 +25,74 @@
   },
   {
     "id": 4,
-    "category": "worldwide",
-    "title": "Ausgabe 2025",
+    "category": "kontinente",
+    "title": "kontinente Themen 2025",
     "excerpt": "Wichtige Informationen und Broschüren",
     "image": "https://example.com/cover3.jpg",
-    "url": "https://example.com/sonderheft.pdf"
+    "url": "https://app.comboni.de/kontinente/kontinente-themen-im-jahr-2025/"
+  },
+  {
+    "id": 5,
+    "category": "worldwide",
+    "title": "worldwide Ausgabe 1/2023",
+    "excerpt": "Ausgabe von worldwide",
+    "image": "https://www.worldwidemagazine.org/wp-content/uploads/2022/11/WORLDWIDE_DEC_JAN_COVER_2022-23-1.jpg",
+    "url": "https://www.worldwidemagazine.org/magazine/vol-33-no-1/"
+  },
+  {
+    "id": 6,
+    "category": "worldwide",
+    "title": "worldwide Ausgabe 2/2023",
+    "excerpt": "Ausgabe von worldwide",
+    "image": "https://www.worldwidemagazine.org/wp-content/uploads/2023/03/WORLDWIDE_FEB_MAR_2023_COVER.jpg",
+    "url": "https://www.worldwidemagazine.org/magazine/vol-34-no-1/"
+  },
+  {
+    "id": 7,
+    "category": "worldwide",
+    "title": "worldwide Ausgabe 1/2024",
+    "excerpt": "Ausgabe von worldwide",
+    "image": "https://www.worldwidemagazine.org/wp-content/uploads/2023/11/WORLDWIDE_DEC-JAN_2023-2024.jpg",
+    "url": "https://www.worldwidemagazine.org/magazine/vol-33-no-1/"
+  },
+  {
+    "id": 8,
+    "category": "worldwide",
+    "title": "worldwide Ausgabe 2/2024",
+    "excerpt": "Ausgabe von worldwide",
+    "image": "https://www.worldwidemagazine.org/wp-content/uploads/2024/02/WORLDWIDE_FEB_MAR_COVER_2024.jpg",
+    "url": "https://www.worldwidemagazine.org/magazine/vol-34-no-2/"
+  },
+  {
+    "id": 9,
+    "category": "worldwide",
+    "title": "worldwide Ausgabe 3/2024",
+    "excerpt": "Ausgabe von worldwide",
+    "image": "https://www.worldwidemagazine.org/wp-content/uploads/2024/04/WORLDWIDE_APR_MAY_2024_COVER.jpg",
+    "url": "https://www.worldwidemagazine.org/magazine/vol-34-no-3/"
+  },
+  {
+    "id": 10,
+    "category": "worldwide",
+    "title": "worldwide Ausgabe 4/2024,
+    "excerpt": "Ausgabe von worldwide",
+    "image": "https://www.worldwidemagazine.org/wp-content/uploads/2024/05/WORLDWIDE_JUNE_JULY_2024_COVER.jpg",
+    "url": "https://www.worldwidemagazine.org/magazine/vol-34-no-4/"
+  },
+  {
+    "id": 11,
+    "category": "worldwide",
+    "title": "worldwide Ausgabe 5/2024",
+    "excerpt": "Ausgabe von worldwide",
+    "image": "https://www.worldwidemagazine.org/wp-content/uploads/2024/07/WORLDWIDE_AUG_SEPT_2024_COVER.jpg",
+    "url": "https://www.worldwidemagazine.org/magazine/vol-34-no-5/"
+  },
+  {
+    "id": 12,
+    "category": "worldwide",
+    "title": "worldwide Ausgabe 6/2024",
+    "excerpt": "Ausgabe von worldwide",
+    "image": "https://www.worldwidemagazine.org/wp-content/uploads/2024/11/WORLDWIDE_OCT_NOV_2024_COVER2.jpg",
+    "url": "https://www.worldwidemagazine.org/magazine/vol-34-no-6/"
   }
-]
+  ]
