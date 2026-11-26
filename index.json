@@ -9,16 +9,24 @@
   },
   {
     "id": 2,
-    "category": "worldwide",
-    "title": "Worldwide Issue 3/2023",
+    "category": "kontinente",
+    "title": "kontinente Ausgabe 2/2026",
     "excerpt": "Ausgabe von worldwide",
-    "image": "https://example.com/cover2.jpg",
-    "url": "https://example.com/worldwide3.pdf"
-  },
+    "image": "https://paper.kontinente.org/2026-02/combonis/preview/big/1.jpg",
+    "url": "https://paper.kontinente.org/2026-02/combonis/"
+  },  
   {
     "id": 3,
-    "category": "dokumente",
-    "title": "Sonderdokument 2024",
+    "category": "kontinente",
+    "title": "kontinente Ausgabe 3/2026",
+    "excerpt": "Ausgabe von worldwide",
+    "image": "https://paper.kontinente.org/2026-3/comboni/preview/big/1.jpg",
+    "url": "https://paper.kontinente.org/2026-3/comboni/"
+  },
+  {
+    "id": 4,
+    "category": "worldwide",
+    "title": "Ausgabe 2025",
     "excerpt": "Wichtige Informationen und Broschüren",
     "image": "https://example.com/cover3.jpg",
     "url": "https://example.com/sonderheft.pdf"
