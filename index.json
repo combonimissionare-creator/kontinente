@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "category": "kontinente",
+    "title": "Kontinente Ausgabe 1/2026",
+    "excerpt": "Alte Ausgabe der Kontinente Zeitschrift",
+    "image": "https://paper.kontinente.org/2026-01/combonis/preview/big/1.jpg",
+    "url": "https://paper.kontinente.org/2026-01/combonis/"
+  },
+  {
+    "id": 2,
+    "category": "worldwide",
+    "title": "Worldwide Issue 3/2023",
+    "excerpt": "Ausgabe von worldwide",
+    "image": "https://example.com/cover2.jpg",
+    "url": "https://example.com/worldwide3.pdf"
+  },
+  {
+    "id": 3,
+    "category": "dokumente",
+    "title": "Sonderdokument 2024",
+    "excerpt": "Wichtige Informationen und Broschüren",
+    "image": "https://example.com/cover3.jpg",
+    "url": "https://example.com/sonderheft.pdf"
+  }
+]
